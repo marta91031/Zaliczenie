@@ -1,0 +1,6 @@
+9822c9e2323563e4f30c17890dc91043740ba43f (HEAD -> main) Merge branch 'playoff' # Please enter a commit message to explain why this merge is necessary, # especially if it merges an updated upstream into a topic branch. # # Lines starting with '#' will be ignored, and an empty message aborts # the commit.
+cb4a157c7a70141791d4c531db117ba57980ad77 (tag: v1.1, origin/playoff, playoff) Spotkanie półfinałowe baraży
+1df989cecd16118a2a49f4d1162db1426bc99874 (tag: v1.0) Obchody dnia bez zakupów
+6c80355577756fc4564eb776bbc8c476fad8d4d0 Opis dnia bez zakupów
+f6a986a3a79d7468e5b0982cb906b585b1f47e2b Dzien bez zakupów
+f2c3a2e5540d7080e109827bf1bd31a055717802 (origin/main, origin/HEAD) Initial commit
